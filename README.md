@@ -20,7 +20,7 @@
   </a> 
 </p>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Programs i use:</h3>
 <p align="left"> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
