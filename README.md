@@ -2,8 +2,8 @@
 <h3 align="center">I'm a self-taught JavaScript and TypeScript developer from Germany</h3>
 
 - I’ve been learning both JavaScript and TypeScript for 2 years now.
-
-- I’m currently working on [Virtue's Panel](https://discord.gg/emulator)
+- Mainly creating Discord Bots & Websites
+- Current Project: [Virtue's Panel](https://discord.gg/emulator)
 
 <h3 align="left">Our Discord:</h3>
 <p align="left">
