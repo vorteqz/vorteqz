@@ -29,3 +29,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a> 
 </p>
+
+<h3 align="left">Learning:</h3>
+<p align="left">
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
+  </a>
+</p>
