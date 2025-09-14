@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Vorteqz</h1>
 <h3 align="center">I'm a self-taught JavaScript and TypeScript developer from Germany</h3>
 
-- I’ve been learning both JavaScript and TypeScript for 2 years now.
+- I’ve been learning both JavaScript and TypeScript for 2 years now (Lua since 2 Months).
 - Mainly creating Discord Bots & Websites
 - Current Project: [Virtue's Panel](https://discord.gg/emulator)
 - Old Project(s): [Multiple Fivem IP Locks](https://github.com/vorteqz7706/fivem-iplock)
