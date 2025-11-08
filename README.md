@@ -2,7 +2,7 @@
 
 - Mainly using Java & Typescript (lua rarely).
 - Current Project: /
-- Old Project(s): [Multiple Fivem IP Locks](https://github.com/vorteqz7706/fivem-iplock) NOT ANYMORE
+- Old Project(s): [Multiple Fivem IP Locks](https://github.com/vorteqz7706/fivem-iplock) stopped
 
 <h3 align="left">Our Discord:</h3>
 <p align="left">
