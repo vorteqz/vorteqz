@@ -1,7 +1,7 @@
 <h1 align="center">Hello</h1>
 
 - Mainly using Java & Typescript (lua rarely).
-- Current Project: /
+- Learning: C++
 - Old Project(s): [Multiple Fivem IP Locks](https://github.com/vorteqz7706/fivem-iplock) stopped
 
 <h3 align="left">Our Discord:</h3>
