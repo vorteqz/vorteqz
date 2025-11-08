@@ -2,7 +2,6 @@
 <h3 align="center">I'm a self-taught JavaScript and TypeScript developer from Germany</h3>
 
 - I’ve been learning both JavaScript and TypeScript for 2 years.
-- Mainly creating Discord Bots & Websites
 - Current Project: /
 - Old Project(s): [Multiple Fivem IP Locks](https://github.com/vorteqz7706/fivem-iplock) NOT ANYMORE
 
