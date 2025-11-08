@@ -1,5 +1,4 @@
-<h1 align="center">Hey, I'm Vorteqz</h1>
-<h3 align="center">I'm a self-taught JavaScript and TypeScript developer from Germany</h3>
+<h1 align="center">Hello</h1>
 
 - I’ve been learning both JavaScript and TypeScript for 2 years.
 - Current Project: /
@@ -24,7 +23,7 @@
 
 <h3 align="left">Learning:</h3>
 <p align="left">
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
 </p>
