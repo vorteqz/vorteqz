@@ -1,10 +1,8 @@
 <a name="top"></a>
 
-<code>Vorteqz@GitHub:~$ cat README.md</code>
-
 [Me](#me) • [About](#about-me) • [Focus](#focus) • [Milestones](#milestones) • [Stats](#github-stats)
 
-<h1 align="center">💻 Hey, I'm Vorteqz 💻</h1>
+<h1 align="center">💻 Hi, I'm Vorteqz 💻</h1>
 <h3 align="center">🔥 C++ Developer & Reverse Engineering Enthusiast 🔥</h3>
 
 ---
@@ -24,7 +22,7 @@
 ## 💡 About Me
 
 * 🔧 Passionate about low-level development and understanding how software really works
-* 🛡️ Specialized in building secure **License Authentication** systems
+* 🛡️ Actively working in building secured **License Authentication** systems
 * 🧪 Deeply interested in **Reverse Engineering** and software internals
 
 ---
@@ -34,7 +32,7 @@
 ## 🎯 Current Focus
 
 * 💻 Advancing my skills in **C++** for high-performance and low-level applications
-* 🔑 Designing and implementing robust **License Authentication** systems
+* 🔑 Designing and implementing strong **License Authentication** systems
 * 🧬 **Reverse Engineering** binaries, protections, and security mechanisms
 * 🛠️ Building tools and solutions in the fields of software protection and analysis
 
