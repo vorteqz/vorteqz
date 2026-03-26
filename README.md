@@ -42,7 +42,7 @@
 
 ## 🎯 Milestones
 
-- [x] Started programming with TypeScript and Lua
+- [x] Started programming with TypeScript
 - [x] Began learning **C++**
 - [x] Developed interest in **Reverse Engineering**
 - [x] Built **License Authentication** systems
