@@ -22,7 +22,7 @@
 ## 💡 About Me
 
 * 🔧 Passionate about low-level development and understanding how software really works
-* 🛡️ Actively working in building secured **License Authentication** systems
+* 🛡️ Actively building secure **License Authentication** systems
 * 🧪 Deeply interested in **Reverse Engineering** and software internals
 
 ---
@@ -32,7 +32,7 @@
 ## 🎯 Current Focus
 
 * 💻 Advancing my skills in **C++** for high-performance and low-level applications
-* 🔑 Designing and implementing strong **License Authentication** systems
+* 🔑 Designing and implementing robust **License Authentication** systems
 * 🧬 **Reverse Engineering** binaries, protections, and security mechanisms
 * 🛠️ Building tools and solutions in the fields of software protection and analysis
 
@@ -58,12 +58,14 @@
 
 <p align="center">
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
   <br />
   <a href="https://x64dbg.com/"><img src="https://img.shields.io/badge/x64dbg-555555?style=for-the-badge&logo=openbugbounty&logoColor=white" /></a>
-  <a href="https://ghidra-sre.org/"><img src="https://img.shields.io/badge/Ghidra-ff0000?style=for-the-badge&logo=redragon&logoColor=white" /></a>
   <a href="https://hex-rays.com/ida-pro/"><img src="https://img.shields.io/badge/IDA%20Pro-f5ad7a?style=for-the-badge&logo=persistent&logoColor=white" /></a>
+  <a href="https://ghidra-sre.org/"><img src="https://img.shields.io/badge/Ghidra-ff0000?style=for-the-badge&logo=redragon&logoColor=white" /></a>
   <br />
   <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" /></a>
 </p>
 
 ---
