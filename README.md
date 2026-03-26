@@ -63,6 +63,10 @@
   <a href="https://x64dbg.com/"><img src="https://img.shields.io/badge/x64dbg-555555?style=for-the-badge&logo=openbugbounty&logoColor=white" /></a>
   <a href="https://hex-rays.com/ida-pro/"><img src="https://img.shields.io/badge/IDA%20Pro-f5ad7a?style=for-the-badge&logo=persistent&logoColor=white" /></a>
   <a href="https://ghidra-sre.org/"><img src="https://img.shields.io/badge/Ghidra-ff0000?style=for-the-badge&logo=redragon&logoColor=white" /></a>
+  <a href="https://binary.ninja/"><img src="https://img.shields.io/badge/Binary%20Ninja-000000?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <br />
+  <a href="https://rada.re/"><img src="https://img.shields.io/badge/Radare2-000000?style=for-the-badge&logo=gnu&logoColor=white" /></a>
+  <a href="https://www.ollydbg.de/"><img src="https://img.shields.io/badge/OllyDbg-FF6D00?style=for-the-badge&logo=bugcrowd&logoColor=white" /></a>
   <br />
   <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" /></a>
