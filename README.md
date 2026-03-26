@@ -12,7 +12,7 @@
 ## 👤 Me
 
 - 🔎 **Known as:** Vorteqz
-- 👤 **Age:** 18
+- 👤 **Age:** 17
 - 💻 **Main Focus:** C++, License Authentication Systems & Reverse Engineering
 
 ---
