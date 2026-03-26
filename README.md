@@ -69,7 +69,6 @@
   <a href="https://www.ollydbg.de/"><img src="https://img.shields.io/badge/OllyDbg-FF6D00?style=for-the-badge&logo=bugcrowd&logoColor=white" /></a>
   <br />
   <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" /></a>
 </p>
 
 ---
