@@ -30,7 +30,6 @@ Reverse Engineering & Security
 <p> <a href="https://x64dbg.com/"><img src="https://img.shields.io/badge/X64Dbg-555555?style=for-the-badge&logo=openbugbounty&logoColor=white" /></a> <a href="https://ghidra-sre.org/"><img src="https://img.shields.io/badge/Ghidra-ff0000?style=for-the-badge&logo=redragon&logoColor=white" /></a> <a href="https://hex-rays.com/ida-pro/"><img src="https://img.shields.io/badge/IDA Pro-f5ad7a?style=for-the-badge&logo=persistent&logoColor=white" /></a> </p>
 🎯 Milestones
 ✅ Started programming in Java & TypeScript
-✅ Built Fivem IP Lock projects
 ✅ Started learning C++
 ⬜ Master C++ for low-level software development
 ⬜ Dive deeper into reverse engineering and malware analysis
