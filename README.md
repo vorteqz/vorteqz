@@ -67,8 +67,12 @@
   <br />
   <a href="https://rada.re/"><img src="https://img.shields.io/badge/Radare2-000000?style=for-the-badge&logo=gnu&logoColor=white" /></a>
   <a href="https://www.ollydbg.de/"><img src="https://img.shields.io/badge/OllyDbg-FF6D00?style=for-the-badge&logo=bugcrowd&logoColor=white" /></a>
+  <a href="https://www.fiddler2.com/"><img src="https://img.shields.io/badge/Fiddler-3399ff?style=for-the-badge&logo=fiddler&logoColor=white" /></a>
+  <a href="https://mitmproxy.org/"><img src="https://img.shields.io/badge/mitmproxy-00b300?style=for-the-badge&logo=proxy&logoColor=white" /></a>
   <br />
   <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
+  <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1AA2DF?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
+  <a href="https://www.procmon.com/"><img src="https://img.shields.io/badge/Process%20Monitor-FF9900?style=for-the-badge&logo=windows&logoColor=white" /></a>
 </p>
 
 ---
